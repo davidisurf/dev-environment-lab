@@ -1,5 +1,5 @@
 # dev-environment-lab
-![Imgur](https://i.imgur.com/h2goLt9.png)
+<img src="https://i.imgur.com/h2goLt9.png">
 
 echo >> README.md
 echo "## OS" >> README.md
